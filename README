@@ -1,0 +1,18 @@
+
+  This package is for Synology DSM systems only (versions 5.0 and above)
+
+  It cleans up remenants of WebTools Installer after a major corruption without need to access DSM 'root'
+
+  It has no operational components;   only the installer and uninstall.
+
+  Installing this package performs the cleaning.   
+  
+  To repair WebTools
+
+  1.  Uninstall this package removes.
+  2.  Uninstall WebTools.
+
+
+  If questions or concerns,  contact me   ChuckPa @ Github
+
+Chuck
