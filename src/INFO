@@ -1,7 +1,0 @@
-package="WT Cleaner"
-description="Cleanup Synology system after corruption of WebTools"
-maintainer="ChuckPa"
-adminurl=""
-firmware=5.0-4458
-helpurl="https://plex.tv/"
-version=1.0
