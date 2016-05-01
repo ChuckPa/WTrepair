@@ -1,5 +1,0 @@
-#!/sh
-
-# Nothing to do post upgrade.  Not supported at this time.  Must uninstall first
-
-return 0
